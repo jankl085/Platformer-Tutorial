@@ -3,10 +3,16 @@
   "resourceVersion": "1.6",
   "name": "GML Platformer",
   "resources": [
+    {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":8,},
+    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":3,},
+    {"id":{"name":"spr_grain","path":"sprites/spr_grain/spr_grain.yy",},"order":9,},
+    {"id":{"name":"spr_playerA","path":"sprites/spr_playerA/spr_playerA.yy",},"order":4,},
     {"id":{"name":"obj_inviswall","path":"objects/obj_inviswall/obj_inviswall.yy",},"order":1,},
+    {"id":{"name":"spr_playerR","path":"sprites/spr_playerR/spr_playerR.yy",},"order":5,},
+    {"id":{"name":"spr_walls","path":"sprites/spr_walls/spr_walls.yy",},"order":6,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
-    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
     {"id":{"name":"spr_inviswall","path":"sprites/spr_inviswall/spr_inviswall.yy",},"order":1,},
+    {"id":{"name":"spr_clouds","path":"sprites/spr_clouds/spr_clouds.yy",},"order":7,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
